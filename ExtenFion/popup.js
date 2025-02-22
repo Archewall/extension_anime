@@ -43,25 +43,39 @@ document.addEventListener('DOMContentLoaded', function() {
 
   async function getAnimeFromAPI() {
     try {
+      // Ajouter un délai pour respecter la limite de taux de l'API
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      
       const randomId = Math.floor(Math.random() * 50000) + 1;
-      const response = await fetch(`https://api.jikan.moe/v4/anime/${randomId}`);
+      const response = await fetch(`https://api.jikan.moe/v4/anime/${randomId}`, {
+        headers: {
+          'Accept': 'application/json'
+        }
+      });
+
+      // Vérifier si la réponse est ok
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
       const data = await response.json();
 
       if (data.data) {
         return {
           title: data.data.title_french || data.data.title,
-          description: data.data.synopsis,
-          image: data.data.images.jpg.large_image_url,
-          url: data.data.url,
-          rating: data.data.score,
-          episodes: data.data.episodes,
-          year: data.data.year,
-          genres: data.data.genres.map(genre => genre.name)
+          description: data.data.synopsis || "Description non disponible",
+          image: data.data.images?.jpg?.large_image_url || "image_par_defaut.jpg",
+          url: data.data.url || "#",
+          rating: data.data.score || 0,
+          episodes: data.data.episodes || "?",
+          year: data.data.year || "?",
+          genres: data.data.genres?.map(genre => genre.name) || []
         };
       }
-      throw new Error('Anime non trouvé');
+      throw new Error('Données d\'anime invalides');
     } catch (error) {
       console.error('Erreur API:', error);
+      // Utiliser la fonction de fallback en cas d'erreur
       return getRandomAnime();
     }
   }
@@ -188,7 +202,7 @@ document.addEventListener('DOMContentLoaded', function() {
   function handleError(error) {
     const errorContainer = document.createElement('div');
     errorContainer.className = 'error-message';
-    errorContainer.textContent = `Une erreur est survenue : ${error.message}`;
+    errorContainer.textContent = `Erreur: ${error.message}. Utilisation des données locales.`;
     document.body.appendChild(errorContainer);
     setTimeout(() => errorContainer.remove(), 3000);
   }
