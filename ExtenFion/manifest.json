@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Anime Recommender Extension",
+  "version": "1.0",
+  "description": "Recommande des anime aléatoires en français.",
+  "host_permissions": [
+    "https://api.jikan.moe/*",
+    "https://api-free.deepl.com/*"
+  ],
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
+  }
+}
+

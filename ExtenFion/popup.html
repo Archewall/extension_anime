@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Anime Recommender</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <!-- Barre de navigation -->
+  <div class="nav-tabs">
+    <button class="tab-button active" data-tab="main">Découvrir</button>
+    <button class="tab-button" data-tab="favorites">♥ Favoris</button>
+    <button class="tab-button" data-tab="history">Historique</button>
+    <button class="tab-button" data-tab="stats">Stats</button>
+  </div>
+
+  <!-- Filtres -->
+  <div class="filters">
+    <select id="genre-filter">
+      <option value="">Tous les genres</option>
+      <option value="Action">Action</option>
+      <option value="Romance">Romance</option>
+      <option value="Fantasy">Fantasy</option>
+      <option value="Adventure">Aventure</option>
+    </select>
+    <select id="rating-filter">
+      <option value="">Toutes notes</option>
+      <option value="8">8+ ⭐</option>
+      <option value="7">7+ ⭐</option>
+      <option value="6">6+ ⭐</option>
+    </select>
+  </div>
+
+  <!-- Spinner de chargement -->
+  <div class="loading-spinner" id="loading" style="display: none;">
+    <div class="spinner"></div>
+    <p>Chargement en cours...</p>
+  </div>
+  
+  <!-- Section principale -->
+  <div class="tab-content active" id="main">
+    <div class="anime" id="anime-content">
+      <h2 id="title">Titre de l'anime</h2>
+      <img id="image" src="" alt="Image de l'anime">
+      <button id="favorite-button" class="favorite-btn">❤️</button>
+      <div class="encadrement">
+        <p id="description">Description de l'anime</p>
+      </div>
+      <div class="info-container">
+        <p id="episodes"></p>
+        <p id="rating"></p>
+        <p id="year"></p>
+      </div>
+      <div class="button-container">
+        <a id="url" href="" target="_blank">Plus d'info</a>
+        <a id="anime" href="" target="_blank">Voir</a>
+      </div>
+    </div>
+    <button id="new-recommendation">Nouvelle recommandation</button>
+  </div>
+
+  <!-- Section favoris -->
+  <div class="tab-content" id="favorites">
+    <div id="favorites-list" class="grid-container"></div>
+  </div>
+
+  <!-- Section historique -->
+  <div class="tab-content" id="history">
+    <div id="history-list" class="grid-container"></div>
+  </div>
+
+  <!-- Section statistiques -->
+  <div class="tab-content" id="stats">
+    <div class="stats-container">
+      <div class="stat-item">
+        <h3>Animes vus</h3>
+        <p id="total-watched">0</p>
+      </div>
+      <div class="stat-item">
+        <h3>Genre favori</h3>
+        <p id="favorite-genre">-</p>
+      </div>
+      <div class="stat-item">
+        <h3>Note moyenne</h3>
+        <p id="average-rating">0</p>
+      </div>
+    </div>
+    <canvas id="genres-chart"></canvas>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

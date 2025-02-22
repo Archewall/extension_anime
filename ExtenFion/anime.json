@@ -1,0 +1,355 @@
+[
+    {
+      "title": "Naruto",
+      "description": "Naruto suit l'histoire de Naruto Uzumaki, un jeune ninja déterminé à devenir le plus grand Hokage de son village. C'est une aventure remplie de combat, d'amitié et de croissance personnelle.",
+      "url": "https://myanimelist.net/anime/20/Naruto",
+      "anime": "https://anime-sama.fr/catalogue/naruto/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+      "genres": ["Action", "Adventure", "Martial Arts"],
+      "rating": 8.3,
+      "episodes": 220,
+      "status": "Completed",
+      "year": 2002,
+      "studio": "Studio Pierrot"
+    },
+    {
+      "title": "One Piece",
+      "description": "Dans One Piece, Monkey D. Luffy et son équipage de pirates parcourent les mers à la recherche du trésor ultime, le One Piece. C'est une aventure épique remplie de combats, d'amitié et de découvertes dans un monde de pirates et de mystères.",
+      "url": "https://myanimelist.net/anime/21/One_Piece",
+      "anime": "https://anime-sama.fr/catalogue/one-piece/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+    
+    },
+    {
+      "title": "Attack on Titan",
+      "description": "Shingeki no Kyojin, se déroule dans un monde où l'humanité est assiégée par des Titans. L'histoire suit Eren Yeager et ses amis dans leur lutte pour la survie et la liberté. C'est un anime acclamé pour son intrigue captivante et ses thèmes profonds.",
+      "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+      "anime": "https://anime-sama.fr/catalogue/shingeki-no-kyojin/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+    },
+    {
+      "title": "86",
+      "description": "Pour répondre aux attaques de drones autonomes envoyés par l'empire voisin de Giad, la république de San Magnolia a développé ses propres drones de combat surnommés les Juggernaut, espérant ainsi limiter les pertes humaines. En réalité, ces appareils sont pilotés par les 86, les habitants d'un district secret considérés comme du bétail.",
+      "url": "https://myanimelist.net/anime/41457/86",
+      "anime": "https://anime-sama.fr/catalogue/86-eighty-six/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg"
+    },
+    {
+      "title": "Darling in the Franxx",
+      "description":"Dans un monde post-apocalyptique, les humains vivent dans des colonies mobiles pour échapper aux attaques des Klaxosaurs. Des adolescents sont recrutés pour piloter des robots géants, les Franxx, et combattre ces créatures. L'histoire suit Hiro, un pilote déchu, dont la rencontre avec la mystérieuse Zero Two bouleverse sa vie et le conduit à découvrir les secrets cachés de leur monde.",
+      "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX?q=darling&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/darling-in-the-franxx/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg"
+    },
+    {
+      "title": "Shigatsu wa Kimi no Uso",
+      "description": "Shigatsu wa Kimi no Uso suit Kousei Arima, un pianiste prodige incapable de jouer après la mort de sa mère, jusqu'à ce qu'il rencontre Kaori Miyazono, une violoniste excentrique qui l'encourage à retrouver sa passion pour la musique. Leur voyage musical est teinté d'amour, de guérison et de secrets déchirants.",
+      "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
+      "anime": "https://anime-sama.fr/catalogue/your-lie-in-april/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg"
+    },
+    {
+      "title": "Bleach",
+      "description":"Dans un monde post-apocalyptique, les humains vivent dans des colonies mobiles pour échapper aux attaques des Klaxosaurs. Des adolescents sont recrutés pour piloter des robots géants, les Franxx, et combattre ces créatures. L'histoire suit Hiro, un pilote déchu, dont la rencontre avec la mystérieuse Zero Two bouleverse sa vie et le conduit à découvrir les secrets cachés de leur monde.",
+      "url": "https://myanimelist.net/anime/269/Bleach?q=blea&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/bleach/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/3/40451.jpg"
+    },
+    {
+      "title": "Prison school",
+      "description":"L'Académie privée Hachimitsu accueille pour la première fois des élèves garçons. Gackt, Shingo, Kiyoshi, Jô et André n'ont eu que très peu d'interactions, pour ne pas dire aucune, avec des filles. Mais dès leur premier jour, ces derniers vont faire des folies et se retrouver face au BDE clandestin, qui est un bureau des élèves, constitué uniquement de filles, créé pour faire respecter la loi. L'internat va vite se transformer en prison… au sens propre du terme.",
+      "url": "https://myanimelist.net/anime/30240/Prison_School?q=pr&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/prison-school/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1286/112161.jpg"
+    },
+    {
+      "title": "Overflow",
+      "description":"Overflow est une série d'anime qui suit la vie quotidienne de Kazushi Sudou, un lycéen qui travaille dans le café familial. Sa vie prend un tournant inattendu lorsqu'il rencontre la charmante Amano Kotone et que leur relation évolue rapidement vers des territoires intimes. L'anime explore les thèmes de la découverte de soi et des relations interpersonnelles dans un contexte de romance érotique.",
+      "url": "https://myanimelist.net/anime/40746/Overflow",
+      "image": "https://cdn.myanimelist.net/images/anime/1781/104461.jpg"
+    },
+    {
+      "title": "Berserk",
+      "description":"Guts, le guerrier noir, promène son imposante silhouette de routes en villages. Sur son passage, les cadavres s'amoncellent. Il porte sur son dos une épée aussi haute qu'un homme. Quelles horreurs a-t-il pu connaître pour être animé d'une telle soif de vengeance ? Une époque s'achève…",
+      "url": "https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk",
+      "anime": "https://anime-sama.fr/catalogue/berserk/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg"
+    },
+    {
+      "title": "Sword Art Online",
+      "description": "Sword Art Online est un anime où les joueurs se retrouvent piégés dans un jeu en ligne. Kirito, le héros, doit survivre dans ce monde virtuel dangereux et trouver un moyen de s'échapper avant qu'il ne soit trop tard.",
+      "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
+      "anime": "https://anime-sama.fr/catalogue/sword-art-online/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg"
+    },
+    {
+      "title": "Kuroko no Basket",
+      "description": "C'est la rentrée au club de basket-ball du lycée Seirin et cette année, deux rookies se démarquent... D'un côté, l'impétueux Taiga Kagami, fraîchement revenu des États-Unis où il a fait ses armes sous les arceaux. De l'autre, le chétif et très effacé Tetsuya Kuroko dont on murmure qu'il a pourtant fait partie de la légendaire Génération Miracle et serait capable de sortir de véritables coups de génie… Ces deux joueurs que tout oppose vont devoir se compléter sur le terrain et mettre le feu aux playgrounds afin de mener Seirin vers les sommets du championnat !",
+      "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket?q=kuroko&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/kuroko-no-basket/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/11/50453.jpg"
+    },
+    {
+      "title": "Hyouka",
+      "description": "Dans Hyouka, Oreki Houtarou, un lycéen paresseux, est entraîné dans des mystères par Chitanda Eru, une fille curieuse. Ensemble, avec leurs amis, ils explorent les secrets de leur école et de leur passé, tout en découvrant des aspects de leur propre personnalité.",
+      "url": "https://myanimelist.net/anime/12189/Hyouka",
+      "anime": "https://anime-sama.fr/catalogue/hyouka/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/13/50521.jpg"
+    },
+    {
+      "title": "Eyeshield 21",
+      "description": "Sena Kobayakawa, le héros de l'histoire, est un jeune homme frêle et craintif. À force de jouer les larbins pour les autres, il a acquis une vitesse de course phénoménale. Dès son arrivée au lycée, il est remarqué par Yoichi Hiruma, le démoniaque quarterback de l'équipe de football américain de son lycée, les Deimon Devil Bats. Si au début Sena accepte d'en faire partie en tant que simple manager, il va rapidement devenir Eyeshield 21, le mystérieux running back de l'équipe. Incognito derrière sa visière teintée, il est, grâce à sa rapidité, l'arme secrète des Devil Bats.",
+      "url": "https://myanimelist.net/anime/15/Eyeshield_21?q=eye&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/eyeshield-21/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1079/133529.jpg"
+    },
+    {
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "description": "Midori Asakura est en première année de lycée et elle adore tellement l'animation qu'elle conceptualise tout ce qui l'entoure en dessin animé. Bien qu'elle dessine constamment sur son carnet de croquis, elle n'a jamais osé créer un animé, insistant sur le fait qu'elle ne pourrait s'en charger seule.",
+      "url": "https://myanimelist.net/anime/39792/Eizouken_ni_wa_Te_wo_Dasu_na?q=eizouk&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/keep-your-hands-off-eizouken/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1680/110451.jpg"
+    },
+    {
+      "title": "Boku no Hero Academia",
+      "description": "Super héros, super pouvoirs… On a tous déjà rêvé secrètement de posséder une qualité hors du commun, de briller ou d'être LA personne la plus puissante de l'univers. Dans ce nouveau monde, ce rêve est à la portée de quasiment toute la population car les humains peuvent désormais naître avec un pouvoir : le « alter ». Mais certains malchanceux naissent sans alter.",
+      "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia?q=my%20hero%20academia&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/my-hero-academia/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/10/78745.jpg"
+    },
+    {
+      "title": "Kyoukai no Kanata",
+      "description": "Dans Koukai no Kanata, Mirai Kuriyama peut manipuler son propre sang en arme. Elle rencontre Akihito Kanbara, un garçon immortel, et ensemble, ils combattent des esprits maléfiques. C'est un anime qui mélange fantastique, romance et action.",
+      "url": "https://myanimelist.net/anime/18153/Kyoukai_no_Kanata?q=kyoukai&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/beyond-the-boundary/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/3/85468.jpg"
+    },
+    {
+      "title": "Albator",
+      "description": "Dans Albator, l'histoire suit le capitaine Albator, un pirate de l'espace solitaire, et son équipage à bord du vaisseau Arcadia. Ensemble, ils luttent contre des forces oppressives et explorent les mystères de l'univers. C'est un récit épique d'aventure, de combat et de sacrifice dans les profondeurs de l'espace.",
+      "url": "https://myanimelist.net/anime/2202/Waga_Seishun_no_Arcadia?q=albator&cat=anime",
+      "image": "https://www.lesmediatheques-rennesmetropole.fr/sites/www.lesmediatheques-rennesmetropole.fr/files/styles/image-bandeau/public/vignettes/ressources/albator.png?itok=FUURrlOK"
+    },
+    {
+      "title": "Death Note",
+      "description": "Et si vous aviez le droit de vie ou de mort sur n'importe qui ? Et si écrire un simple nom pouvait décider de la mort d'une personne ? C'est à ces questions que notre héros, Light Yagami a été confronté. Lycéen surdoué, brillant, taciturne et arrogant, Light a une conception très pointue et extrême de la justice. Il considère le monde comme corrompu et trop permissif avec les criminels. Il va alors trouver par hasard un étrange cahier…abandonné par un dieu de la mort.",
+      "url": "https://myanimelist.net/anime/1535/Death_Note",
+      "anime": "https://anime-sama.fr/catalogue/death-note/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg"
+    },
+    {
+      "title": "Kimetsu no Yaiba",
+      "description": "Découvrez une aventure où le sang va couler sous la lame de l'épée. Nous sommes pendant l'ère Taishô. Tanjirô, un jeune et sympathique vendeur de charbon voit son quotidien changer radicalement après le massacre de sa famille par un démon. Seule sa petite sœur Nezuko survit à l'attaque, mais elle est transformée en un démon féroce. Ils partent tous deux en voyage afin de prendre leur revanche et de rendre à Nezuko son apparence d'origine. Vivez avec eux ce périple dans lequel le destin des humains et des démons s'entremêlent.",
+      "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba?q=demon&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/demon-slayer/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "description": "Cowboy Bebop nous raconte les déboires de Spike et Jet, deux célibataires qui se sont associés dans la chasse aux hors-la-loi dont la tête est mise à prix. Tous les deux sans argent, ils sillonnent l'espace à bord du Bebop afin de renflouer leur compte en banque ainsi que leur frigo. Mais bientôt ils ne seront plus seuls car leurs chasses à l'homme les amèneront à croiser le chemin d'un chien intelligent, Ein, d'une belle brune, Faye et d'une jeune hackeur au comportement loufoque, Ed.",
+      "url": "https://myanimelist.net/anime/1/Cowboy_Bebop?q=cow&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/cowboy-bebop/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/4/19644.jpg"
+    },
+    {
+      "title": "Shinseiki Evangelion",
+      "description": "Evangelion suit Shinji Ikari, un adolescent qui pilote un robot géant pour combattre des créatures mystérieuses appelées Anges. C'est une histoire complexe mêlant psychologie, philosophie et action.",
+      "url": "https://myanimelist.net/anime/30/Shinseiki_Evangelion?q=evangelion%20neo%20&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/evangelion/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
+    },
+    {
+      "title": "Samurai Champloo",
+      "description": "Mugen est un féroce guerrier au style de combat plutôt sauvage alors que Jin est un samuraï très habile au style traditionnel. Ces deux samuraïs n'ont vraiment rien en commun mais leurs routes semblent se croiser. Mugen erre dans un salon de thé où il sauve la vie d'une jeune serveuse : Fû. Jin fait alors son apparition dans le salon de thé, Mugen sent qu'il est fort et ne peut s'empêcher de le défier. Fû les convainc de la suivre afin de retrouver un mystérieux samuraï qui sent comme les tournesols. C'est alors que commence leur long et périlleux voyage...",
+      "url": "https://myanimelist.net/anime/205/Samurai_Champloo?q=samourai%20champlo&cat=anime",
+      "image": "https://cdn.myanimelist.net/images/anime/1370/135212.jpg"
+    },
+    {
+      "title": "Dororo",
+      "description": "Hyakkimaru est infirme : 48 parties de son corps ont été vendues à autant de démons avant sa naissance. Rafistolé par un chirurgien compatissant, adolescent, il se découvre d'étranges pouvoirs psychiques. Accompagné de Dororo, un petit voleur espiègle, il arpente le Japon à la recherche d'un endroit où vivre en paix... affrontant au passage esprits et forces obscures.",
+      "url": "https://myanimelist.net/anime/37520/Dororo?q=doror&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/evangelion/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg"
+    },
+    {
+      "title": "Yasuke",
+      "description": "Yasuke suit l'histoire d'un samouraï africain éponyme qui se bat dans le Japon féodal, protégeant un enfant doté de pouvoirs spéciaux. C'est un mélange d'histoire, de magie et d'action épique.",
+      "url": "https://myanimelist.net/anime/43697/Yasuke?q=y&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/yasuke/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1684/114647.jpg"
+    },
+    {
+      "title": "Kaguya-sama: Love is War",
+      "description": "L'académie Shûchiin compte parmi ses rangs les élèves les plus brillants, sur lesquels tous les espoirs reposent. Un jour, au BDE, la vice-présidente Kaguya Shinomiya et le président Miyuki Shirogane se rencontrent et tout laisse à penser qu'ils se plaisent. Mais six mois s'écoulent sans que rien ne se passe ! Ils sont tous deux aveuglés par leur fierté, et ne cherchent qu'à pousser l'autre à se déclarer. Tout le plaisir de l'amour s'éprouve avant qu'il soit avoué ! Une comédie romantique et psychologique qui va faire sensation ! C'est la guerre !",
+      "url": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen?q=love%20is%20war&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/yasuke/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg"
+    },
+    {
+      "title": "Shugo Chara!",
+      "description": "Shugo Chara! suit Amu Hinamori, une fille timide qui découvre des personnages magiques représentant ses différentes personnalités cachées. Avec leur aide, elle explore son identité tout en vivant des aventures magiques et romantiques.",
+      "url": "https://myanimelist.net/anime/2923/Shugo_Chara",
+      "image": "https://cdn.myanimelist.net/images/anime/7/5061.jpg"
+    },
+    {
+      "title": "Sousou no Frieren",
+      "description": " Sousou no Frieren suit Frieren, une sorcière immortelle confrontée à la perte alors que ses amis mortels vieillissent et meurent. C'est une réflexion poignante sur l'amitié et la mortalité.",
+      "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren",
+      "anime": "https://anime-sama.fr/catalogue/frieren/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    },
+    {
+      "title": "Horimiya",
+      "description": "Hori Kyôko est la coqueluche de sa classe, une lycéenne jolie et populaire aux excellents résultats. Mais le soir venu, elle doit tenir la maison à la place de ses parents qui travaillent et s'occuper de son petit frère, Sôta. Un jour pas comme un autre, Sôta se fait mal dehors. Un garçon inconnu qui prend sur lui de le ramener chez sa famille, mais quand Kyôko leur ouvre la porte, c'est interloqué qu'il prononce son nom avec un soupçon d'hésitation. Elle se rend alors compte que la personne qui vient de ramener son frère n'est autre qu'un camarade de classe...",
+      "url": "https://myanimelist.net/anime/42897/Horimiya?q=hori&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/horimiya/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1695/111486.jpg"
+    },
+    {
+      "title": "Violet Evergarden",
+      "description": "Violet Evergarden suit l'histoire de Violet, une ancienne soldate cherchant à trouver sa place dans le monde en devenant rédactrice de lettres, aidant les gens à communiquer leurs sentiments les plus profonds. C'est une série émouvante qui explore la rédemption et la compassion dans un cadre magnifique.",
+      "url": "https://myanimelist.net/anime/33352/Violet_Evergarden",
+      "anime": "https://anime-sama.fr/catalogue/violet-evergarden/",
+      "image": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg"
+    },
+    {
+      "title": "Made in Abyss",
+      "description": "À la surface de cette planète, un seul endroit demeure encore mystérieux et inexploré : un trou gigantesque surnommé « L'Abysse ». Dans cette crevasse sans fond dorment des trésors que l'humanité ne semble plus pouvoir reproduire. La fascination et l'émerveillement que représente L'Abysse poussent de nombreuses personnes à s'y aventurer.",
+      "url": "https://myanimelist.net/manga/91941/Made_in_Abyss?q=made%20&cat=manga",
+      "anime": "https://anime-sama.fr/catalogue/made-in-abyss/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/manga/3/161645.jpg"
+    },
+    {
+      "title": "Death Parade",
+      "description": "L'histoire débute avec l'arrivée de deux personnages, Takashi et Machiko, dans un bar étrange. Ils ne se souviennent même pas comment ils sont arrivés ici, et le maître des lieux, Decim, ne répond quasiment pas à leurs questions, leur imposant de jouer à un jeu. N'ayant pas d'autre choix, les voici entraînés dans une suite d'événements inattendus qui devraient révéler leur vraie nature que Decim jugera en conséquence.",
+      "url": "https://myanimelist.net/anime/28223/Death_Parade?q=death%20para&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/death-parade/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/5/71553.jpg"
+    },
+    {
+      "title": "Kiseijuu: Sei no Kakuritsu",
+      "description": "De mystérieuses créatures ont colonisé la Terre en prenant possession de certains habitants. Un lycéen, Shin'ichi, a été contaminé, mais son cerveau est épargné. Seul son bras droit est possédé par un parasite, Migi, qu'il apprend peu à peu à connaître. Tous deux doivent désormais cohabiter, mais dans le même temps, Shin'ichi comprend que la prolifération des parasites menace, à terme, l'espèce humaine.",
+      "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu?q=paras&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/death-parade/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/3/73178.jpg"
+    },
+    {
+      "title": "Bungou Stray Dogs",
+      "description": "Un groupe de détectives dotés de pouvoirs paranormaux mène des enquêtes souvent dangereuses dans le plus grand secret, là où la police et l'armée refusent d'intervenir.Atsushi Nakajima a été chassé de son orphelinat. Sans-le-sou, il croise la route de ces étranges détectives tandis qu'ils pourchassent un tigre mangeur d'hommes terrorisant la population…",
+      "url": "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs?q=bung&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/bungou-stray-dogs/",
+      "image": "https://cdn.myanimelist.net/images/anime/3/79409.jpg"
+    },
+    {
+      "title": "GTO",
+      "description": "GTO suit Onizuka, un ancien délinquant devenu professeur, qui utilise des méthodes uniques pour aider ses élèves à surmonter leurs difficultés personnelles. C'est une série comique et émouvante remplie de moments mémorables.",
+      "url": "https://myanimelist.net/manga/336/GTO?q=gto&cat=manga",
+      "anime": "https://anime-sama.fr/catalogue/great-teacher-onizuka/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/manga/2/172982.jpg"
+    },
+    {
+      "title": "Fairy Tail",
+      "description": "Lucy rêverait d'intégrer la glorieuse guilde de Fairy Tail, mais elle n'a aucune idée de leurs méthodes de recrutement, et a un peu peur face à la réputation de guilde à problème qu'elle traîne. Mais bien vite, elle laisse ses remords de côté lorsqu'un mage du feu prétend être de la guilde et l'invite à bord de son bateau. Ce n'est qu'un imposteur, mais elle est sauvée par Natsu, un jeune homme qu'elle avait rencontré peu avant et qui, lui, est un véritable membre de la guilde.",
+      "url": "https://myanimelist.net/anime/6702/Fairy_Tail?q=fair&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/fairy-tail/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/5/18179.jpg"
+    },
+    {
+      "title": "Oshi No Ko",
+      "description": "Oshinoko semble être une erreur de frappe ou une orthographe incorrecte. Si vous pourriez donner plus de détails ou corriger le nom, je serais heureux de vous fournir des informations sur l'anime ou le manga en question.",
+      "url": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
+      "anime": "https://anime-sama.fr/catalogue/oshi-no-ko/saison1/vostfr/",
+      "image": "https://sm.ign.com/ign_fr/screenshot/default/oshi_94ze.jpg"
+    },
+    {
+      "title": "Vinland Saga",
+      "description": "À la fin du premier millénaire, les guerriers les plus forts et les plus cruels de leur temps se sont répandus à travers le monde entier : les Vikings. Thorfinn, le fils de l'homme réputé comme étant le plus fort des guerriers, décide de passer sa vie sur les champs de batailles malgré son jeune âge tout en rêvant d'atteindre le légendaire continent que l'on appelle « Vinland ». Dans le tourbillon d'une époque troublée, la saga d'un vrai guerrier commence.",
+      "url": "https://myanimelist.net/anime/37521/Vinland_Saga?q=vin&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/vinland-saga/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg"
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "À la fin du premier millénaire, les guerriers les plus forts et les plus cruels de leur temps se sont répandus à travers le monde entier : les Vikings. Thorfinn, le fils de l'homme réputé comme étant le plus fort des guerriers, décide de passer sa vie sur les champs de batailles malgré son jeune âge tout en rêvant d'atteindre le légendaire continent que l'on appelle « Vinland ». Dans le tourbillon d'une époque troublée, la saga d'un vrai guerrier commence.",
+      "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood?q=full&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/fullmetal-alchemist-brotherhood/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg"
+    },
+    {
+      "title": "Nanatsu no Taizai",
+      "description": "Les Seven Deadly Sins sont un groupe de chevaliers qui ont conspiré pour renverser le royaume de Britannia. Ils ont été éradiqués par les Chevaliers Sacrés, cependant certaines rumeurs laissent prétendre qu'ils sont toujours en vie.",
+      "url": "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai?q=nanatsu&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/seven-deadly-sins/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/8/65409.jpg"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "description": "L'histoire nous entraîne dans le quotidien de David Martinez, un enfant de la rue essayant de survivre dans une ville obsédée par les technologies et les modifications corporelles. Pour rester en vie, il décide de devenir un edgerunner, un mercenaire également connu sous le nom de cyberpunk.",
+      "url": "https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners?q=cyber&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/cyberpunk-edgerunners/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg"
+    },
+    {
+      "title": "Koe no Katachi",
+      "description":"Koe no Katachi est un film d'animation qui raconte l'histoire de Shoya Ishida, qui cherche à se racheter après avoir intimidé une camarade de classe sourde, Shoko Nishimiya. Le film explore les thèmes de l'intimidation, du pardon et de la rédemption.",
+      "url": "https://myanimelist.net/anime/28851/Koe_no_Katachi",
+      "anime": "https://anime-sama.fr/catalogue/a-silent-voice/film/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg"
+    },
+    {
+      "title": "Kimi no Suizou wo Tabetai",
+      "description": "Kimi no Suizou wo Tabetai suit l'histoire de deux lycéens, un garçon solitaire et une fille populaire atteinte d'une maladie terminale. Leur amitié improbable les conduit à vivre pleinement chaque jour malgré la tragédie imminente. C'est un récit émouvant sur l'amitié et l'acceptation de la finitude de la vie.",
+      "url": "https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai?q=eat%20your%20pancrea&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/i-want-to-eat-your-pancreas/film/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg"
+    },
+    {
+      "title": "capitaine flamme",
+      "description": "Capitaine Flamme est une série animée de science-fiction suivant les aventures du héros intergalactique éponyme, accompagné de son équipe à bord du vaisseau Comet. Ensemble, ils combattent le mal à travers l'univers, tout en cherchant à venger la destruction de la planète Titan et à protéger les innocents contre les forces du mal dirigées par Zolock.",
+      "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood?q=full&cat=anime",
+      "anime": "https://animationdigitalnetwork.fr/video/capitaineflam_tv/19395-episode-1-l-empereur-de-l-espace-entre-en-scene-premier-voyage-le-terrible-empereur-de-l-espace",
+      "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg"
+    },
+    {
+      "title": "Kimi no Na wa.",
+      "description": "Kimi no Na wa est un film d'animation où Mitsuha et Taki échangent mystérieusement de corps, développant des liens malgré la distance.",
+      "url" : "https://myanimelist.net/anime/32281/Kimi_no_Na_wa?q=kimi%20no&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/your-name/film/vostfr/",
+      "image": "https://i.pinimg.com/736x/05/80/c1/0580c15ab565c45eb84c4a577bf9bf60.jpg"
+    },
+    {
+      "title": "Yu☆Gi☆Oh!",
+      "description": "Yûgi Mutô est un jeune lycéen introverti. De part sa petite taille et sa trop grande gentillesse, il est souvent victime des brimades des caïds de l'établissement. Jusqu'au jour où il parvient enfin, après 8 ans de labeur, à réaliser le puzzle antique que son grand père, l'explorateur Sugoroku Mutô, lui avait donné au retour d'un de ses voyages en Egypte. Dès lors, Yûgi se sent investi d'une nouvelle personnalité, plus mûre et plus apte à se défendre. A présent il rend une mystérieuse et expéditive justice dans la cour du lycée, par le biais de jeux ténébreux lourds de conséquences.",
+      "url": "https://myanimelist.net/anime/550/Yu%E2%98%86Gi%E2%98%86Oh?q=yu%20gi&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/yu-gi-oh/saison3/vf/",
+      "image": "https://cdn.myanimelist.net/images/anime/4/47487.jpg"
+    },
+    {
+      "title": "Pokemon",
+      "description": "Sacha, 10 ans, habite le Bourg-Palette dans la région du Kantô et son rêve est de devenir le meilleur dresseur de Pokémon du monde. Il obtient comme premier Pokémon un Pikachu, qui s'avère avoir un tempérament plutôt... électrique ! Durant son voyage, notre jeune héros rencontre Ondine, une dresseuse de Pokémon Eau, et Pierre, qui souhaite devenir éleveur de Pokémon. Nos trois amis seront confrontés à Jessie, James et Miaouss, membres de la Team Rocket, célèbre gang de malfaiteurs qui n'auront de cesse de vouloir capturer Pikachu, qu'ils prennent pour un Pokémon hors normes et puissant.",
+      "url": "https://myanimelist.net/anime/527/Pokemon?q=pokemon&cat=anime",
+      "image": "https://cdn.myanimelist.net/images/anime/1787/140239.jpg"
+    },
+    {
+      "title": "Nana",
+      "description": "un animé pour les puceau",
+      "url": "https://myanimelist.net/anime/877/Nana",
+      "anime": "https://anime-sama.fr/catalogue/nana/saison1/vostfr/",
+      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/64bc62dbb3d21745fab72dbb793383c1.jpe"
+    },
+    {
+      "title": "Hunter x Hunter",
+      "description": "Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter. Il sera aidé par de nouvelles connaissances qui aspirent au même but que lui, telles que Kurapika, Leorio et Killua.",
+      "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011?q=hunt&cat=anime",
+      "anime": "https://anime-sama.fr/catalogue/hunter-x-hunter/saison1/vostfr/",
+      "image": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg"
+    },
+    {
+      "title": "J O J O no Kimyou na Bouken",
+      "description": "JoJo's Bizarre Adventure est une série de manga et d'anime créée par Hirohiko Araki. Elle suit les aventures de la famille Joestar à travers plusieurs générations, chacune ayant son propre protagoniste surnommé JoJo. Chaque partie de la série présente des histoires uniques avec des protagonistes différents, mais toutes sont liées par des thèmes de combat, de destin, et de rivalité contre des forces surnaturelles. La série est célèbre pour ses combats inventifs, ses personnages excentriques et son style artistique distinctif.",
+      "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV",
+      "anime": "https://anime-sama.fr/catalogue/jojos-bizarre-adventure/saison1/vostfr/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQ5MzUyNTQtN2Y3ZS00NTI4LWFkYjEtODk2NjQ2ODk3ZDY1XkEyXkFqcGdeQXVyMTA0ODU5NjAz._V1_.jpg"
+    }    
+  ]
+  
